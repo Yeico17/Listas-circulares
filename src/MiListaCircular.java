@@ -1,2 +1,2 @@
-public class MiListaCircular {
-}//asdasdasdasdasdasd
+public class MiListaCircular {//xd
+}
